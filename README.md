@@ -2,7 +2,7 @@
 Use Metadata to genetare sdk for new game version.
 btw 
 You can find guide how to decrypt metadata in
-il2cpp Inspector Readme.
+il2cpp Inspector Readme. https://katyscode.wordpress.com/2020/12/27/il2cpp-part-2/
 Just Find ( in Il2cpp init function)
 shit looks like this
 "qword_14096281 = sub_14099BA();"
