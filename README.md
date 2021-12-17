@@ -1,4 +1,4 @@
-# HiredOps-SDK
+# HiredOps-SDK [outdated]
 Use Metadata to genetare sdk for new game version.
 btw 
 You can find guide how to decrypt metadata in
